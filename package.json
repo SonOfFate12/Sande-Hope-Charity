@@ -1,0 +1,12 @@
+{
+    "name": "sande-hope-charity",
+    "version": "1.0.0",
+    "description": "Sande Hope Charity website",
+    "main": "index.html",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
